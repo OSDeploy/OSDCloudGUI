@@ -4,7 +4,7 @@
 
 @{
     RootModule = 'OSDCloudGUI.psm1'
-    ModuleVersion = '22.10.18.1'
+    ModuleVersion = '22.10.19.1'
     CompatiblePSEditions = @('Desktop')
     GUID = '296e565a-4f62-4c91-8939-e307df3bef8a'
     Author = 'David Segura'
